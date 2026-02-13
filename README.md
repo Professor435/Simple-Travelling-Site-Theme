@@ -1,2 +1,3 @@
 # Simple-Travelling-Site-Theme
-Simple-Travelling-Site-Theme
+
+Voyage — A sophisticated, immersive travel website theme designed for modern explorers. Featuring a luxurious color palette of deep ocean teal and warm coral accents, this fully responsive template combines elegant typography with cinematic parallax effects. Key highlights include an interactive destination search bar, hover-reveal destination cards with ratings, categorized experience browsing, and smooth scroll-triggered animations. Built with pure HTML, Tailwind CSS, and vanilla JavaScript—no heavy frameworks required. Perfect for travel agencies, tour operators, or hospitality brands seeking to inspire wanderlust through refined, editorial-style design.
